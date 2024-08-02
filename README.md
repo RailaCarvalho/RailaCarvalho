@@ -1,5 +1,5 @@
 
-### Olá! Eu sou a Raila !🙋‍♀️ 
+### Olá! Seja bem vindo! Eu sou a Raila 🙋‍♀️ <br>
 [![Linkeding](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/railacarvalhoaraujo/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rayla_carvalho_)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RailaCarvalho) 
@@ -20,10 +20,10 @@
 
 ## Formação 📚
 **Ensino Superior** <br>
-Tecnologia em Análise e Desenvolvimento de Sistemas | Instituuto Federal do Pará - Campus Óbidos | Agosto de 2022 - em andamento.
+Análise e Desenvolvimento de Sistemas | Instituuto Federal do Pará | Agosto de 2022 - em andamento.
 
 **Ensino Médio Técnico** <br>
-Técnica em Desenvolvimento de Sistemas Integrado ao Ensino Médio | Instituto Federal do Pará - Campus Óbidos | Fevereiro de 2018 - Dezembro de 2020.
+Técnica em Desenvolvimento de Sistemas | Instituto Federal do Pará | Fevereiro de 2018 - Dezembro de 2020.
 
 ## Experiência Profissional 👩‍💻
 Empresa: **Sistema de Ensino Amazon** <br>
