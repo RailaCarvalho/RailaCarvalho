@@ -25,12 +25,6 @@ Análise e Desenvolvimento de Sistemas | Instituuto Federal do Pará | Agosto de
 **Ensino Médio Técnico** <br>
 Técnica em Desenvolvimento de Sistemas | Instituto Federal do Pará | Fevereiro de 2018 - Dezembro de 2020.
 
-## Experiência Profissional 👩‍💻
-Empresa: **Sistema de Ensino Amazon** <br>
-Período: fevereiro de 2022 - março de 2024. <br>
-Cargo: **Instrutora de Informática** <br>
-Funções: Ministrar aulas de cursos relacionados a área de informática, análise de dados empresariais e robótica educacional.
-
 ### Transformando sonhos em código, uma linha de cada vez. Orgulhosa de ser uma girl programmer! 👩‍💻❤️  
 <div align="center">
 <img src="https://github.com/RailaCarvalho/RailaCarvalho/blob/main/octocat%20Raila.png" alt="Octocat Raila Carvalho" width="350" height="350">  
